@@ -9,7 +9,7 @@ import Course from './view/Course';
 import Password from './view/Password';
 import Apply from './view/Apply';
 
-import database from './utils/database';
+import database from './util/database';
 
 export default function ({history}) {
 
